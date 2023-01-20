@@ -1,0 +1,12 @@
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Exceptions\bin\Debug\net6.0\PhoneBook.Exceptions.deps.json
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Exceptions\bin\Debug\net6.0\PhoneBook.Exceptions.dll
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Exceptions\bin\Debug\net6.0\PhoneBook.Exceptions.pdb
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Exceptions\obj\Debug\net6.0\PhoneBook.Exceptions.csproj.AssemblyReference.cache
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Exceptions\obj\Debug\net6.0\PhoneBook.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Exceptions\obj\Debug\net6.0\PhoneBook.Exceptions.AssemblyInfoInputs.cache
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Exceptions\obj\Debug\net6.0\PhoneBook.Exceptions.AssemblyInfo.cs
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Exceptions\obj\Debug\net6.0\PhoneBook.Exceptions.csproj.CoreCompileInputs.cache
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Exceptions\obj\Debug\net6.0\PhoneBook.Exceptions.dll
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Exceptions\obj\Debug\net6.0\refint\PhoneBook.Exceptions.dll
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Exceptions\obj\Debug\net6.0\PhoneBook.Exceptions.pdb
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Exceptions\obj\Debug\net6.0\ref\PhoneBook.Exceptions.dll

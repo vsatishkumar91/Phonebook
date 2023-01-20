@@ -1,0 +1,15 @@
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\bin\Debug\net6.0\PhoneBook.Repository.deps.json
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\bin\Debug\net6.0\PhoneBook.Repository.dll
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\bin\Debug\net6.0\PhoneBook.Repository.pdb
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\bin\Debug\net6.0\PhoneBook.Models.dll
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\bin\Debug\net6.0\PhoneBook.Models.pdb
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\obj\Debug\net6.0\PhoneBook.Repository.csproj.AssemblyReference.cache
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\obj\Debug\net6.0\PhoneBook.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\obj\Debug\net6.0\PhoneBook.Repository.AssemblyInfoInputs.cache
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\obj\Debug\net6.0\PhoneBook.Repository.AssemblyInfo.cs
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\obj\Debug\net6.0\PhoneBook.Repository.csproj.CoreCompileInputs.cache
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\obj\Debug\net6.0\PhoneBook.Repository.csproj.CopyComplete
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\obj\Debug\net6.0\PhoneBook.Repository.dll
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\obj\Debug\net6.0\refint\PhoneBook.Repository.dll
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\obj\Debug\net6.0\PhoneBook.Repository.pdb
+C:\myspace\.net\project\Phone-Book-Backend\PhoneBook.Repository\obj\Debug\net6.0\ref\PhoneBook.Repository.dll
